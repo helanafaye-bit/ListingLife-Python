@@ -1,0 +1,23 @@
+# ListingLife - Python Requirements
+# This application uses only Python standard library modules
+# No external dependencies required!
+
+# Python 3.7+ is required
+# The following modules are used (all part of standard library):
+# - tkinter (GUI framework)
+# - json (data storage)
+# - os, pathlib (file operations)
+# - datetime (date handling)
+
+# To run the application:
+# python main.py
+
+# For Windows users, tkinter should be included with Python
+# For Linux users, you may need to install:
+#   sudo apt-get install python3-tk
+# For macOS users, tkinter should be included with Python
+
+
+
+
+
